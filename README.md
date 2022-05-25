@@ -1,8 +1,4 @@
-### Hi there I'm Hassan👋
-
-
-
-Here are some ideas to get you started:
+### Hi there I'm Hassan 👋
 
 - 🔭 I’m currently working on self development
 - 🌱 I’m currently learning React.js/ Node.js / TypeScript
@@ -14,7 +10,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
--->
 
 
 _______________
