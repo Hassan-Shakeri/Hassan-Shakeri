@@ -1,8 +1,7 @@
 ### Hi there I'm Hassan 👋
 
-- 🔭 I’m currently working on self development
-- 🌱 I’m currently learning React.js/ Node.js / TypeScript
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning React.js/ Node.js
+- 👯 I’m looking to collaborate on any project that can teach me something new.
 - 📫 How to reach me:
 
 <div id="badges">
@@ -21,6 +20,7 @@ _______________
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://www.getpostman.com/img-rebrand/logo.png" title="postman" alt="postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDb" alt="mongoDb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" title="eslint" alt="eslint" width="40" height="40"/>&nbsp;
