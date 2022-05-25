@@ -7,7 +7,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on self development
 - 🌱 I’m currently learning React.js/ Node.js / TypeScript
 - 👯 I’m looking to collaborate on ...
-- 📫 How to reach me:<div id="badges">
+- 📫 How to reach me:
+
+<div id="badges">
   <a href="https://www.linkedin.com/in/hassan-shakeri/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
