@@ -1,24 +1,21 @@
-### Hi there 👋
+### Hi there I'm Hassan👋
 
-<div id="badges">
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on self development
+- 🌱 I’m currently learning React.js/ Node.js / TypeScript
+- 👯 I’m looking to collaborate on ...
+- 📫 How to reach me:<div id="badges">
   <a href="https://www.linkedin.com/in/hassan-shakeri/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 
+_______________
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -32,6 +29,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+______________
 
 ### :fire: My Stats :
 
