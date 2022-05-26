@@ -6,11 +6,7 @@
 - 👯 I’m looking to collaborate on any project that can teach me something new.
 - 📫 How to reach me:
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/hassan-shakeri/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/hassan-shakeri/" rel="nofollow"><img src="https://camo.githubusercontent.com/ae2ee5e315f8a61a60debe130ae1abd287b076051ecc40eb2059bc5abb95ea47/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f6c6f676f3d6c696e6b6564696e267374796c653d666c6174266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f636869656d656b616d2f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&amp;style=flat&amp;logoColor=white&amp;link=https://www.linkedin.com/in/hassan-shakeri/" style="max-width: 100%;"></a>
 
 
 _______________
