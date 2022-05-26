@@ -1,4 +1,4 @@
-<a href="https://hassan-shakeri.github.io/" rel="nofollow"><img src="https://camo.githubusercontent.com/de9233e5d513340fe797f81aad3b27a68310d79f733e6ebfb3b3147f2be906aa/68747470733a2f2f6261646765732e7075666c65722e6465762f7669736974732f656c636f7a792f656c636f7a793f6c6162656c3d50726f66696c652532307669657773267374796c653d666c617426636f6c6f723d313230303234" alt="Visits Badge" data-canonical-src="https://badges.pufler.dev/visits/hassan-shakeri/hassan-shakeri?label=Profile%20views&amp;style=flat&amp;color=120024" style="max-width: 100%;"></a>
+![](https://komarev.com/ghpvc/?username=hassan-shakeri&&color=blue)
 
 ### Hi there I'm Hassan 👋
 
